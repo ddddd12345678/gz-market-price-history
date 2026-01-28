@@ -1,0 +1,1 @@
+jsonp_data_by_month_2025_11_开刀鳙鱼_2025_11_js({"wholeCity": [{"date": "2025-11-01", "price": "22.14"}], "urbanCity": [{"date": "2025-11-01", "price": "20.86"}], "suburbCity": [{"date": "2025-11-01", "price": "22.57"}]})

@@ -1,0 +1,1 @@
+jsonp_data_by_month_2025_11_绍菜_2025_11_js({"wholeCity": [{"date": "2025-11-01", "price": "6.79"}], "urbanCity": [{"date": "2025-11-01", "price": "6.83"}], "suburbCity": [{"date": "2025-11-01", "price": "6.38"}]})
