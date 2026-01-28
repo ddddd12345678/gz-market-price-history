@@ -1,1 +1,1 @@
-jsonp_data_by_month_2025_11_红萝卜_2025_11_js({"wholeCity": [{"date": "2025-11-01", "price": "5.88"}], "urbanCity": [{"date": "2025-11-01", "price": "6.00"}], "suburbCity": [{"date": "2025-11-01", "price": "6.38"}]})
+jsonp_data_by_month_2025_11_红萝卜_2025_11_js({"wholeCity": [{"date": "2025-11-01", "price": "5.88"}, {"date": "2025-11-02", "price": "5.94"}], "urbanCity": [{"date": "2025-11-01", "price": "6.00"}, {"date": "2025-11-02", "price": "6.00"}], "suburbCity": [{"date": "2025-11-01", "price": "6.38"}, {"date": "2025-11-02", "price": "6.50"}]})
