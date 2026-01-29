@@ -1,1 +1,1 @@
-jsonp_data_by_month_2025_06_雪梨_2025_06_js({"wholeCity": [{"date": "2025-06-01", "price": "10.33"}, {"date": "2025-06-02", "price": "10.33"}]})
+jsonp_data_by_month_2025_06_雪梨_2025_06_js({"wholeCity": [{"date": "2025-06-01", "price": "10.33"}, {"date": "2025-06-02", "price": "10.33"}, {"date": "2025-06-03", "price": "10.33"}]})
