@@ -1,1 +1,1 @@
-jsonp_data_by_month_2025_02_排骨_2025_02_js({"wholeCity": [{"date": "2025-02-01", "price": "65.81"}], "urbanCity": [{"date": "2025-02-01", "price": "66.00"}], "suburbCity": [{"date": "2025-02-01", "price": "66.38"}]})
+jsonp_data_by_month_2025_02_排骨_2025_02_js({"wholeCity": [{"date": "2025-02-01", "price": "65.81"}, {"date": "2025-02-02", "price": "65.81"}], "urbanCity": [{"date": "2025-02-01", "price": "66.00"}, {"date": "2025-02-02", "price": "66.00"}], "suburbCity": [{"date": "2025-02-01", "price": "66.38"}, {"date": "2025-02-02", "price": "66.38"}]})

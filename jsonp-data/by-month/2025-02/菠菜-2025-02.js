@@ -1,1 +1,1 @@
-jsonp_data_by_month_2025_02_菠菜_2025_02_js({"wholeCity": [{"date": "2025-02-01", "price": "11.69"}], "urbanCity": [{"date": "2025-02-01", "price": "12.33"}], "suburbCity": [{"date": "2025-02-01", "price": "11.63"}]})
+jsonp_data_by_month_2025_02_菠菜_2025_02_js({"wholeCity": [{"date": "2025-02-01", "price": "11.69"}, {"date": "2025-02-02", "price": "11.38"}], "urbanCity": [{"date": "2025-02-01", "price": "12.33"}, {"date": "2025-02-02", "price": "12.00"}], "suburbCity": [{"date": "2025-02-01", "price": "11.63"}, {"date": "2025-02-02", "price": "11.63"}]})
