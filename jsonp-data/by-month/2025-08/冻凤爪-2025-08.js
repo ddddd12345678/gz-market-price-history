@@ -1,0 +1,1 @@
+jsonp_data_by_month_2025_08_冻凤爪_2025_08_js({"wholeCity": [{"date": "2025-08-01", "price": "41.13"}], "urbanCity": [{"date": "2025-08-01", "price": "41.50"}], "suburbCity": [{"date": "2025-08-01", "price": "37.86"}]})
