@@ -1,0 +1,1 @@
+jsonp_data_by_month_2025_09_本地菜心_2025_09_js({"wholeCity": [{"date": "2025-09-01", "price": "11.17"}], "urbanCity": [{"date": "2025-09-01", "price": "12.44"}], "suburbCity": [{"date": "2025-09-01", "price": "10.38"}]})
