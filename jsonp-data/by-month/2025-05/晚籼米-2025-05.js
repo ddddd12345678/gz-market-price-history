@@ -1,1 +1,1 @@
-jsonp_data_by_month_2025_05_晚籼米_2025_05_js({"wholeCity": [{"date": "2025-05-01", "price": "6.50"}]})
+jsonp_data_by_month_2025_05_晚籼米_2025_05_js({"wholeCity": [{"date": "2025-05-01", "price": "6.50"}, {"date": "2025-05-02", "price": "6.50"}]})
