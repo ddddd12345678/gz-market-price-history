@@ -1,1 +1,1 @@
-jsonp_data_by_month_2025_08_玉米粉_2025_08_js({"wholeCity": [{"date": "2025-08-01", "price": "6.50"}]})
+jsonp_data_by_month_2025_08_玉米粉_2025_08_js({"wholeCity": [{"date": "2025-08-01", "price": "6.50"}, {"date": "2025-08-02", "price": "6.80"}]})
