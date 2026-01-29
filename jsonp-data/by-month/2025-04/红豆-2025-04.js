@@ -1,1 +1,1 @@
-jsonp_data_by_month_2025_04_红豆_2025_04_js({"wholeCity": [{"date": "2025-04-01", "price": "17.31"}]})
+jsonp_data_by_month_2025_04_红豆_2025_04_js({"wholeCity": [{"date": "2025-04-01", "price": "17.31"}, {"date": "2025-04-02", "price": "17.31"}]})

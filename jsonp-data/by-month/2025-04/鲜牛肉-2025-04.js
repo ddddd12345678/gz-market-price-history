@@ -1,1 +1,1 @@
-jsonp_data_by_month_2025_04_鲜牛肉_2025_04_js({"wholeCity": [{"date": "2025-04-01", "price": "105.06"}], "urbanCity": [{"date": "2025-04-01", "price": "101.44"}], "suburbCity": [{"date": "2025-04-01", "price": "106.75"}]})
+jsonp_data_by_month_2025_04_鲜牛肉_2025_04_js({"wholeCity": [{"date": "2025-04-01", "price": "105.06"}, {"date": "2025-04-02", "price": "104.94"}], "urbanCity": [{"date": "2025-04-01", "price": "101.44"}, {"date": "2025-04-02", "price": "101.44"}], "suburbCity": [{"date": "2025-04-01", "price": "106.75"}, {"date": "2025-04-02", "price": "106.50"}]})
