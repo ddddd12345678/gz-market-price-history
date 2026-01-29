@@ -1,1 +1,1 @@
-jsonp_data_by_month_2025_01_潮州柑_2025_01_js({"wholeCity": [{"date": "2025-01-01", "price": "11.00"}]})
+jsonp_data_by_month_2025_01_潮州柑_2025_01_js({"wholeCity": [{"date": "2025-01-01", "price": "11.00"}, {"date": "2025-01-02", "price": "11.00"}]})

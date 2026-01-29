@@ -1,1 +1,1 @@
-jsonp_data_by_month_2025_01_云南小瓜_2025_01_js({"wholeCity": [{"date": "2025-01-01", "price": "8.01"}], "urbanCity": [{"date": "2025-01-01", "price": "8.36"}], "suburbCity": [{"date": "2025-01-01", "price": "8.43"}]})
+jsonp_data_by_month_2025_01_云南小瓜_2025_01_js({"wholeCity": [{"date": "2025-01-01", "price": "8.01"}, {"date": "2025-01-02", "price": "7.89"}], "urbanCity": [{"date": "2025-01-01", "price": "8.36"}, {"date": "2025-01-02", "price": "8.36"}], "suburbCity": [{"date": "2025-01-01", "price": "8.43"}, {"date": "2025-01-02", "price": "8.14"}]})

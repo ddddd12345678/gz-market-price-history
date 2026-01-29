@@ -1,1 +1,1 @@
-jsonp_data_by_month_2025_01_苹果_2025_01_js({"wholeCity": [{"date": "2025-01-01", "price": "14.52"}]})
+jsonp_data_by_month_2025_01_苹果_2025_01_js({"wholeCity": [{"date": "2025-01-01", "price": "14.52"}, {"date": "2025-01-02", "price": "14.32"}]})

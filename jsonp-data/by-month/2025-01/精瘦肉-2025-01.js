@@ -1,1 +1,1 @@
-jsonp_data_by_month_2025_01_精瘦肉_2025_01_js({"wholeCity": [{"date": "2025-01-01", "price": "40.25"}], "urbanCity": [{"date": "2025-01-01", "price": "41.11"}], "suburbCity": [{"date": "2025-01-01", "price": "40.75"}]})
+jsonp_data_by_month_2025_01_精瘦肉_2025_01_js({"wholeCity": [{"date": "2025-01-01", "price": "40.25"}, {"date": "2025-01-02", "price": "40.13"}], "urbanCity": [{"date": "2025-01-01", "price": "41.11"}, {"date": "2025-01-02", "price": "40.89"}], "suburbCity": [{"date": "2025-01-01", "price": "40.75"}, {"date": "2025-01-02", "price": "40.75"}]})
