@@ -1,1 +1,1 @@
-{"wholeCity": [{"date": "2025-06-01", "price": "60.25"}], "urbanCity": [{"date": "2025-06-01", "price": "60.67"}], "suburbCity": [{"date": "2025-06-01", "price": "60.75"}]}
+{"wholeCity": [{"date": "2025-06-01", "price": "60.25"}, {"date": "2025-06-02", "price": "60.25"}], "urbanCity": [{"date": "2025-06-01", "price": "60.67"}, {"date": "2025-06-02", "price": "60.67"}], "suburbCity": [{"date": "2025-06-01", "price": "60.75"}, {"date": "2025-06-02", "price": "60.75"}]}

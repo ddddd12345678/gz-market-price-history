@@ -1,1 +1,1 @@
-jsonp_data_by_month_2025_06_冻带鱼_2025_06_js({"wholeCity": [{"date": "2025-06-01", "price": "55.71"}], "urbanCity": [{"date": "2025-06-01", "price": "60.75"}], "suburbCity": [{"date": "2025-06-01", "price": "45.29"}]})
+jsonp_data_by_month_2025_06_冻带鱼_2025_06_js({"wholeCity": [{"date": "2025-06-01", "price": "55.71"}, {"date": "2025-06-02", "price": "55.71"}], "urbanCity": [{"date": "2025-06-01", "price": "60.75"}, {"date": "2025-06-02", "price": "60.75"}], "suburbCity": [{"date": "2025-06-01", "price": "45.29"}, {"date": "2025-06-02", "price": "45.29"}]})

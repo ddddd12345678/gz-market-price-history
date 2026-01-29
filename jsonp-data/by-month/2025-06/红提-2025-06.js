@@ -1,1 +1,1 @@
-jsonp_data_by_month_2025_06_红提_2025_06_js({"wholeCity": [{"date": "2025-06-01", "price": "41.00"}]})
+jsonp_data_by_month_2025_06_红提_2025_06_js({"wholeCity": [{"date": "2025-06-01", "price": "41.00"}, {"date": "2025-06-02", "price": "41.00"}]})
