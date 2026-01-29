@@ -1,0 +1,1 @@
+jsonp_data_by_month_2025_07_小塘白菜_2025_07_js({"wholeCity": [{"date": "2025-07-01", "price": "7.97"}], "urbanCity": [{"date": "2025-07-01", "price": "8.44"}], "suburbCity": [{"date": "2025-07-01", "price": "7.06"}]})

@@ -1,0 +1,1 @@
+jsonp_data_by_month_2025_07_红三鱼_2025_07_js({"wholeCity": [{"date": "2025-07-01", "price": "71.73"}], "urbanCity": [{"date": "2025-07-01", "price": "70.89"}], "suburbCity": [{"date": "2025-07-01", "price": "72.71"}]})
