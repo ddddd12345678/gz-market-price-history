@@ -1,0 +1,1 @@
+jsonp_data_by_month_2025_06_大蒜_2025_06_js({"wholeCity": [{"date": "2025-06-01", "price": "12.19"}], "urbanCity": [{"date": "2025-06-01", "price": "13.00"}], "suburbCity": [{"date": "2025-06-01", "price": "12.13"}]})
