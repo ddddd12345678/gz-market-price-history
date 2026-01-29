@@ -1,1 +1,1 @@
-jsonp_data_by_month_2025_07_生宰光鸡_2025_07_js({"wholeCity": [{"date": "2025-07-01", "price": "39.25"}], "urbanCity": [{"date": "2025-07-01", "price": "34.50"}], "suburbCity": [{"date": "2025-07-01", "price": "38.86"}]})
+jsonp_data_by_month_2025_07_生宰光鸡_2025_07_js({"wholeCity": [{"date": "2025-07-01", "price": "39.25"}, {"date": "2025-07-02", "price": "39.25"}], "urbanCity": [{"date": "2025-07-01", "price": "34.50"}, {"date": "2025-07-02", "price": "34.50"}], "suburbCity": [{"date": "2025-07-01", "price": "38.86"}, {"date": "2025-07-02", "price": "38.86"}]})

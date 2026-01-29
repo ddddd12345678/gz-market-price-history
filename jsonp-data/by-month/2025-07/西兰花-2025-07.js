@@ -1,1 +1,1 @@
-jsonp_data_by_month_2025_07_西兰花_2025_07_js({"wholeCity": [{"date": "2025-07-01", "price": "10.06"}], "urbanCity": [{"date": "2025-07-01", "price": "10.44"}], "suburbCity": [{"date": "2025-07-01", "price": "10.88"}]})
+jsonp_data_by_month_2025_07_西兰花_2025_07_js({"wholeCity": [{"date": "2025-07-01", "price": "10.06"}, {"date": "2025-07-02", "price": "10.04"}], "urbanCity": [{"date": "2025-07-01", "price": "10.44"}, {"date": "2025-07-02", "price": "10.40"}], "suburbCity": [{"date": "2025-07-01", "price": "10.88"}, {"date": "2025-07-02", "price": "10.88"}]})
