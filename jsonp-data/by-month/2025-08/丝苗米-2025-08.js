@@ -1,1 +1,1 @@
-jsonp_data_by_month_2025_08_丝苗米_2025_08_js({"wholeCity": [{"date": "2025-08-01", "price": "7.25"}, {"date": "2025-08-02", "price": "7.25"}]})
+jsonp_data_by_month_2025_08_丝苗米_2025_08_js({"wholeCity": [{"date": "2025-08-01", "price": "7.25"}, {"date": "2025-08-02", "price": "7.25"}, {"date": "2025-08-03", "price": "7.24"}]})
