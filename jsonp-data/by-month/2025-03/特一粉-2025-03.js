@@ -1,1 +1,1 @@
-jsonp_data_by_month_2025_03_特一粉_2025_03_js({"wholeCity": [{"date": "2025-03-01", "price": "7.17"}]})
+jsonp_data_by_month_2025_03_特一粉_2025_03_js({"wholeCity": [{"date": "2025-03-01", "price": "7.17"}, {"date": "2025-03-02", "price": "7.17"}]})

@@ -1,1 +1,1 @@
-jsonp_data_by_month_2025_03_荷兰豆_2025_03_js({"wholeCity": [{"date": "2025-03-01", "price": "15.06"}], "urbanCity": [{"date": "2025-03-01", "price": "14.78"}], "suburbCity": [{"date": "2025-03-01", "price": "16.13"}]})
+jsonp_data_by_month_2025_03_荷兰豆_2025_03_js({"wholeCity": [{"date": "2025-03-01", "price": "15.06"}, {"date": "2025-03-02", "price": "15.06"}], "urbanCity": [{"date": "2025-03-01", "price": "14.78"}, {"date": "2025-03-02", "price": "14.78"}], "suburbCity": [{"date": "2025-03-01", "price": "16.13"}, {"date": "2025-03-02", "price": "16.13"}]})

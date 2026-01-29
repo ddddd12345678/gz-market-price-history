@@ -1,1 +1,1 @@
-jsonp_data_by_month_2025_03_矮脚白菜_2025_03_js({"wholeCity": [{"date": "2025-03-01", "price": "10.33"}], "urbanCity": [{"date": "2025-03-01", "price": "10.88"}], "suburbCity": [{"date": "2025-03-01", "price": "9.13"}]})
+jsonp_data_by_month_2025_03_矮脚白菜_2025_03_js({"wholeCity": [{"date": "2025-03-01", "price": "10.33"}, {"date": "2025-03-02", "price": "10.33"}], "urbanCity": [{"date": "2025-03-01", "price": "10.88"}, {"date": "2025-03-02", "price": "10.88"}], "suburbCity": [{"date": "2025-03-01", "price": "9.13"}, {"date": "2025-03-02", "price": "9.13"}]})

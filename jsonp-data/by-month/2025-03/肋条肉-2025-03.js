@@ -1,1 +1,1 @@
-jsonp_data_by_month_2025_03_肋条肉_2025_03_js({"wholeCity": [{"date": "2025-03-01", "price": "35.56"}], "urbanCity": [{"date": "2025-03-01", "price": "35.89"}], "suburbCity": [{"date": "2025-03-01", "price": "35.25"}]})
+jsonp_data_by_month_2025_03_肋条肉_2025_03_js({"wholeCity": [{"date": "2025-03-01", "price": "35.56"}, {"date": "2025-03-02", "price": "35.56"}], "urbanCity": [{"date": "2025-03-01", "price": "35.89"}, {"date": "2025-03-02", "price": "35.89"}], "suburbCity": [{"date": "2025-03-01", "price": "35.25"}, {"date": "2025-03-02", "price": "35.25"}]})

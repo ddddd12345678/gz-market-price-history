@@ -1,1 +1,1 @@
-jsonp_data_by_month_2025_03_黄鳝_2025_03_js({"wholeCity": [{"date": "2025-03-01", "price": "61.50"}], "urbanCity": [{"date": "2025-03-01", "price": "67.00"}], "suburbCity": [{"date": "2025-03-01", "price": "58.86"}]})
+jsonp_data_by_month_2025_03_黄鳝_2025_03_js({"wholeCity": [{"date": "2025-03-01", "price": "61.50"}, {"date": "2025-03-02", "price": "61.50"}], "urbanCity": [{"date": "2025-03-01", "price": "67.00"}, {"date": "2025-03-02", "price": "67.00"}], "suburbCity": [{"date": "2025-03-01", "price": "58.86"}, {"date": "2025-03-02", "price": "58.86"}]})
