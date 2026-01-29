@@ -1,0 +1,1 @@
+jsonp_data_by_month_2025_02_早籼米_2025_02_js({"wholeCity": [{"date": "2025-02-01", "price": "6.03"}]})
