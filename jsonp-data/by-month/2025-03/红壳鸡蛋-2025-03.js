@@ -1,0 +1,1 @@
+jsonp_data_by_month_2025_03_红壳鸡蛋_2025_03_js({"wholeCity": [{"date": "2025-03-01", "price": "12.23"}], "urbanCity": [{"date": "2025-03-01", "price": "12.43"}], "suburbCity": [{"date": "2025-03-01", "price": "11.63"}]})
