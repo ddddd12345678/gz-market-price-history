@@ -1,1 +1,1 @@
-jsonp_data_by_month_2026_02_蒙牛纯牛奶_2026_02_js({"wholeCity": [{"date": "2026-02-01", "price": "3.00"}, {"date": "2026-02-02", "price": "3.00"}]})
+jsonp_data_by_month_2026_02_蒙牛纯牛奶_2026_02_js({"wholeCity": [{"date": "2026-02-01", "price": "3.00"}, {"date": "2026-02-02", "price": "3.00"}, {"date": "2026-02-03", "price": "3.00"}]})
