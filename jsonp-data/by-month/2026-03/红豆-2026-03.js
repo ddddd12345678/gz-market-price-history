@@ -1,0 +1,1 @@
+jsonp_data_by_month_2026_03_红豆_2026_03_js({"wholeCity": [{"date": "2026-03-01", "price": "17.73"}]})
