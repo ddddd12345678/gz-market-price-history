@@ -1,1 +1,1 @@
-jsonp_data_by_month_2026_03_精瘦肉_2026_03_js({"wholeCity": [{"date": "2026-03-01", "price": "36.88"}], "urbanCity": [{"date": "2026-03-01", "price": "37.56"}], "suburbCity": [{"date": "2026-03-01", "price": "38.50"}]})
+jsonp_data_by_month_2026_03_精瘦肉_2026_03_js({"wholeCity": [{"date": "2026-03-01", "price": "36.88"}, {"date": "2026-03-02", "price": "36.88"}], "urbanCity": [{"date": "2026-03-01", "price": "37.56"}, {"date": "2026-03-02", "price": "37.56"}], "suburbCity": [{"date": "2026-03-01", "price": "38.50"}, {"date": "2026-03-02", "price": "38.50"}]})

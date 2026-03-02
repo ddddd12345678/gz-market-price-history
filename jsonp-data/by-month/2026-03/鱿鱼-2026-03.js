@@ -1,1 +1,1 @@
-jsonp_data_by_month_2026_03_鱿鱼_2026_03_js({"wholeCity": [{"date": "2026-03-01", "price": "69.29"}], "urbanCity": [{"date": "2026-03-01", "price": "67.00"}], "suburbCity": [{"date": "2026-03-01", "price": "72.86"}]})
+jsonp_data_by_month_2026_03_鱿鱼_2026_03_js({"wholeCity": [{"date": "2026-03-01", "price": "69.29"}, {"date": "2026-03-02", "price": "69.29"}], "urbanCity": [{"date": "2026-03-01", "price": "67.00"}, {"date": "2026-03-02", "price": "67.00"}], "suburbCity": [{"date": "2026-03-01", "price": "72.86"}, {"date": "2026-03-02", "price": "72.86"}]})

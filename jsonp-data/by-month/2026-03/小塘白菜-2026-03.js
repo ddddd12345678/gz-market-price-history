@@ -1,1 +1,1 @@
-jsonp_data_by_month_2026_03_小塘白菜_2026_03_js({"wholeCity": [{"date": "2026-03-01", "price": "7.88"}], "urbanCity": [{"date": "2026-03-01", "price": "8.44"}], "suburbCity": [{"date": "2026-03-01", "price": "7.50"}]})
+jsonp_data_by_month_2026_03_小塘白菜_2026_03_js({"wholeCity": [{"date": "2026-03-01", "price": "7.88"}, {"date": "2026-03-02", "price": "7.69"}], "urbanCity": [{"date": "2026-03-01", "price": "8.44"}, {"date": "2026-03-02", "price": "8.11"}], "suburbCity": [{"date": "2026-03-01", "price": "7.50"}, {"date": "2026-03-02", "price": "7.50"}]})
