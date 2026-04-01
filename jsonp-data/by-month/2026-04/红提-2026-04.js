@@ -1,0 +1,1 @@
+jsonp_data_by_month_2026_04_红提_2026_04_js({"wholeCity": [{"date": "2026-04-01", "price": "41.00"}]})
