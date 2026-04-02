@@ -1,1 +1,1 @@
-jsonp_data_by_month_2026_04_西瓜_2026_04_js({"wholeCity": [{"date": "2026-04-01", "price": "7.79"}]})
+jsonp_data_by_month_2026_04_西瓜_2026_04_js({"wholeCity": [{"date": "2026-04-01", "price": "7.79"}, {"date": "2026-04-02", "price": "7.79"}]})

@@ -1,1 +1,1 @@
-jsonp_data_by_month_2026_04_原条草鱼_2026_04_js({"wholeCity": [{"date": "2026-04-01", "price": "24.57"}], "urbanCity": [{"date": "2026-04-01", "price": "27.43"}], "suburbCity": [{"date": "2026-04-01", "price": "23.25"}]})
+jsonp_data_by_month_2026_04_原条草鱼_2026_04_js({"wholeCity": [{"date": "2026-04-01", "price": "24.57"}, {"date": "2026-04-02", "price": "24.57"}], "urbanCity": [{"date": "2026-04-01", "price": "27.43"}, {"date": "2026-04-02", "price": "27.43"}], "suburbCity": [{"date": "2026-04-01", "price": "23.25"}, {"date": "2026-04-02", "price": "23.25"}]})
