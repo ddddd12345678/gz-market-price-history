@@ -1,1 +1,1 @@
-jsonp_data_by_month_2026_05_芥兰_2026_05_js({"wholeCity": [{"date": "2026-05-01", "price": "10.65"}], "urbanCity": [{"date": "2026-05-01", "price": "10.93"}], "suburbCity": [{"date": "2026-05-01", "price": "11.25"}]})
+jsonp_data_by_month_2026_05_芥兰_2026_05_js({"wholeCity": [{"date": "2026-05-01", "price": "10.65"}, {"date": "2026-05-02", "price": "10.65"}], "urbanCity": [{"date": "2026-05-01", "price": "10.93"}, {"date": "2026-05-02", "price": "10.93"}], "suburbCity": [{"date": "2026-05-01", "price": "11.25"}, {"date": "2026-05-02", "price": "11.25"}]})

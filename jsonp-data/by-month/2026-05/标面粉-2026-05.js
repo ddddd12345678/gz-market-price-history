@@ -1,1 +1,1 @@
-jsonp_data_by_month_2026_05_标面粉_2026_05_js({"wholeCity": [{"date": "2026-05-01", "price": "5.84"}]})
+jsonp_data_by_month_2026_05_标面粉_2026_05_js({"wholeCity": [{"date": "2026-05-01", "price": "5.84"}, {"date": "2026-05-02", "price": "5.85"}]})
