@@ -1,0 +1,1 @@
+jsonp_data_by_month_2026_06_荷兰豆_2026_06_js({"wholeCity": [{"date": "2026-06-01", "price": "18.50"}], "urbanCity": [{"date": "2026-06-01", "price": "17.11"}], "suburbCity": [{"date": "2026-06-01", "price": "19.50"}]})

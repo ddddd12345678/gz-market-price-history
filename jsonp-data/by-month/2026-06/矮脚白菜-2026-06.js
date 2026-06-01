@@ -1,0 +1,1 @@
+jsonp_data_by_month_2026_06_矮脚白菜_2026_06_js({"wholeCity": [{"date": "2026-06-01", "price": "10.13"}], "urbanCity": [{"date": "2026-06-01", "price": "10.00"}], "suburbCity": [{"date": "2026-06-01", "price": "10.38"}]})
