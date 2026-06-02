@@ -1,1 +1,1 @@
-jsonp_data_by_month_2026_06_莲藕_2026_06_js({"wholeCity": [{"date": "2026-06-01", "price": "10.96"}], "urbanCity": [{"date": "2026-06-01", "price": "11.49"}], "suburbCity": [{"date": "2026-06-01", "price": "11.25"}]})
+jsonp_data_by_month_2026_06_莲藕_2026_06_js({"wholeCity": [{"date": "2026-06-01", "price": "10.96"}, {"date": "2026-06-02", "price": "10.96"}], "urbanCity": [{"date": "2026-06-01", "price": "11.49"}, {"date": "2026-06-02", "price": "11.49"}], "suburbCity": [{"date": "2026-06-01", "price": "11.25"}, {"date": "2026-06-02", "price": "11.25"}]})

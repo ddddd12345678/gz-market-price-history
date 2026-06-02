@@ -1,1 +1,1 @@
-jsonp_data_by_month_2026_06_5L金龙鱼食用调和油_2026_06_js({"wholeCity": [{"date": "2026-06-01", "price": "67.25"}]})
+jsonp_data_by_month_2026_06_5L金龙鱼食用调和油_2026_06_js({"wholeCity": [{"date": "2026-06-01", "price": "67.25"}, {"date": "2026-06-02", "price": "67.25"}]})

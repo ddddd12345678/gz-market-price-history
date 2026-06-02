@@ -1,1 +1,1 @@
-jsonp_data_by_month_2026_06_丝苗米_2026_06_js({"wholeCity": [{"date": "2026-06-01", "price": "7.37"}]})
+jsonp_data_by_month_2026_06_丝苗米_2026_06_js({"wholeCity": [{"date": "2026-06-01", "price": "7.37"}, {"date": "2026-06-02", "price": "7.37"}]})

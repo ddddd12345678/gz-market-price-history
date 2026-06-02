@@ -1,1 +1,1 @@
-jsonp_data_by_month_2026_06_黄鳝_2026_06_js({"wholeCity": [{"date": "2026-06-01", "price": "67.42"}], "urbanCity": [{"date": "2026-06-01", "price": "70.43"}], "suburbCity": [{"date": "2026-06-01", "price": "60.86"}]})
+jsonp_data_by_month_2026_06_黄鳝_2026_06_js({"wholeCity": [{"date": "2026-06-01", "price": "67.42"}, {"date": "2026-06-02", "price": "67.42"}], "urbanCity": [{"date": "2026-06-01", "price": "70.43"}, {"date": "2026-06-02", "price": "70.43"}], "suburbCity": [{"date": "2026-06-01", "price": "60.86"}, {"date": "2026-06-02", "price": "60.86"}]})

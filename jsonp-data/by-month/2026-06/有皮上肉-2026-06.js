@@ -1,1 +1,1 @@
-jsonp_data_by_month_2026_06_有皮上肉_2026_06_js({"wholeCity": [{"date": "2026-06-01", "price": "27.25"}], "urbanCity": [{"date": "2026-06-01", "price": "30.89"}], "suburbCity": [{"date": "2026-06-01", "price": "27.50"}]})
+jsonp_data_by_month_2026_06_有皮上肉_2026_06_js({"wholeCity": [{"date": "2026-06-01", "price": "27.25"}, {"date": "2026-06-02", "price": "27.25"}], "urbanCity": [{"date": "2026-06-01", "price": "30.89"}, {"date": "2026-06-02", "price": "30.89"}], "suburbCity": [{"date": "2026-06-01", "price": "27.50"}, {"date": "2026-06-02", "price": "27.50"}]})

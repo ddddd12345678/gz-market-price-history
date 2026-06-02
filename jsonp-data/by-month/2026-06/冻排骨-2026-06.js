@@ -1,1 +1,1 @@
-jsonp_data_by_month_2026_06_冻排骨_2026_06_js({"wholeCity": [{"date": "2026-06-01", "price": "44.20"}], "urbanCity": [{"date": "2026-06-01", "price": "48.56"}], "suburbCity": [{"date": "2026-06-01", "price": "36.63"}]})
+jsonp_data_by_month_2026_06_冻排骨_2026_06_js({"wholeCity": [{"date": "2026-06-01", "price": "44.20"}, {"date": "2026-06-02", "price": "44.20"}], "urbanCity": [{"date": "2026-06-01", "price": "48.56"}, {"date": "2026-06-02", "price": "48.56"}], "suburbCity": [{"date": "2026-06-01", "price": "36.63"}, {"date": "2026-06-02", "price": "36.63"}]})

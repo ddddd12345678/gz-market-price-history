@@ -1,1 +1,1 @@
-jsonp_data_by_month_2026_06_5L胡姬花古法花生油_2026_06_js({"wholeCity": [{"date": "2026-06-01", "price": "149.13"}]})
+jsonp_data_by_month_2026_06_5L胡姬花古法花生油_2026_06_js({"wholeCity": [{"date": "2026-06-01", "price": "149.13"}, {"date": "2026-06-02", "price": "149.13"}]})
