@@ -1,1 +1,1 @@
-jsonp_data_by_month_2026_06_橙子_2026_06_js({"wholeCity": [{"date": "2026-06-01", "price": "10.99"}, {"date": "2026-06-02", "price": "10.79"}]})
+jsonp_data_by_month_2026_06_橙子_2026_06_js({"wholeCity": [{"date": "2026-06-01", "price": "10.99"}, {"date": "2026-06-02", "price": "10.79"}, {"date": "2026-06-03", "price": "10.79"}]})
