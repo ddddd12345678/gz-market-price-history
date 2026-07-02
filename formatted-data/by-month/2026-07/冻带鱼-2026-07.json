@@ -1,1 +1,1 @@
-{"wholeCity": [{"date": "2026-07-01", "price": "58.87"}], "urbanCity": [{"date": "2026-07-01", "price": "61.00"}], "suburbCity": [{"date": "2026-07-01", "price": "48.43"}]}
+{"wholeCity": [{"date": "2026-07-01", "price": "58.87"}, {"date": "2026-07-02", "price": "59.27"}], "urbanCity": [{"date": "2026-07-01", "price": "61.00"}, {"date": "2026-07-02", "price": "61.67"}], "suburbCity": [{"date": "2026-07-01", "price": "48.43"}, {"date": "2026-07-02", "price": "48.43"}]}
