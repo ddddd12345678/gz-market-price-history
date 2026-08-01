@@ -1,0 +1,1 @@
+jsonp_data_by_month_2026_08_雪梨_2026_08_js({"wholeCity": [{"date": "2026-08-01", "price": "10.25"}]})
