@@ -1,1 +1,1 @@
-jsonp_data_by_month_2026_08_水空心菜_2026_08_js({"wholeCity": [{"date": "2026-08-01", "price": "9.03"}], "urbanCity": [{"date": "2026-08-01", "price": "8.93"}], "suburbCity": [{"date": "2026-08-01", "price": "9.00"}]})
+jsonp_data_by_month_2026_08_水空心菜_2026_08_js({"wholeCity": [{"date": "2026-08-01", "price": "9.03"}, {"date": "2026-08-02", "price": "9.09"}], "urbanCity": [{"date": "2026-08-01", "price": "8.93"}, {"date": "2026-08-02", "price": "8.93"}], "suburbCity": [{"date": "2026-08-01", "price": "9.00"}, {"date": "2026-08-02", "price": "9.13"}]})

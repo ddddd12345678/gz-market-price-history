@@ -1,1 +1,1 @@
-jsonp_data_by_month_2026_08_白豆角_2026_08_js({"wholeCity": [{"date": "2026-08-01", "price": "11.19"}], "urbanCity": [{"date": "2026-08-01", "price": "10.89"}], "suburbCity": [{"date": "2026-08-01", "price": "12.00"}]})
+jsonp_data_by_month_2026_08_白豆角_2026_08_js({"wholeCity": [{"date": "2026-08-01", "price": "11.19"}, {"date": "2026-08-02", "price": "11.31"}], "urbanCity": [{"date": "2026-08-01", "price": "10.89"}, {"date": "2026-08-02", "price": "10.89"}], "suburbCity": [{"date": "2026-08-01", "price": "12.00"}, {"date": "2026-08-02", "price": "12.00"}]})

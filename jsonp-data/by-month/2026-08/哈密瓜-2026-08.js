@@ -1,1 +1,1 @@
-jsonp_data_by_month_2026_08_哈密瓜_2026_08_js({"wholeCity": [{"date": "2026-08-01", "price": "11.00"}]})
+jsonp_data_by_month_2026_08_哈密瓜_2026_08_js({"wholeCity": [{"date": "2026-08-01", "price": "11.00"}, {"date": "2026-08-02", "price": "11.00"}]})
