@@ -1,1 +1,1 @@
-jsonp_data_by_month_2026_08_特一粉_2026_08_js({"wholeCity": [{"date": "2026-08-01", "price": "7.50"}, {"date": "2026-08-02", "price": "7.50"}]})
+jsonp_data_by_month_2026_08_特一粉_2026_08_js({"wholeCity": [{"date": "2026-08-01", "price": "7.50"}, {"date": "2026-08-02", "price": "7.50"}, {"date": "2026-08-03", "price": "7.50"}]})
