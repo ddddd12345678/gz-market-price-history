@@ -1,1 +1,1 @@
-jsonp_data_date_range_js({"startDate": "2025-01-01", "endDate": "2026-08-23"})
+jsonp_data_date_range_js({"startDate": "2025-01-01", "endDate": "2026-08-24"})
