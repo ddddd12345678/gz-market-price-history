@@ -1,0 +1,1 @@
+jsonp_data_by_month_2026_09_大芥菜_2026_09_js({"wholeCity": [{"date": "2026-09-01", "price": "8.13"}], "urbanCity": [{"date": "2026-09-01", "price": "8.96"}], "suburbCity": [{"date": "2026-09-01", "price": "8.29"}]})
