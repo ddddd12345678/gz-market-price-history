@@ -1,1 +1,1 @@
-jsonp_data_by_month_2026_09_西洋菜_2026_09_js({"wholeCity": [{"date": "2026-09-01", "price": "11.57"}], "urbanCity": [{"date": "2026-09-01", "price": "10.33"}], "suburbCity": [{"date": "2026-09-01", "price": "11.00"}]})
+jsonp_data_by_month_2026_09_西洋菜_2026_09_js({"wholeCity": [{"date": "2026-09-01", "price": "11.57"}, {"date": "2026-09-02", "price": "11.64"}], "urbanCity": [{"date": "2026-09-01", "price": "10.33"}, {"date": "2026-09-02", "price": "10.17"}], "suburbCity": [{"date": "2026-09-01", "price": "11.00"}, {"date": "2026-09-02", "price": "11.25"}]})

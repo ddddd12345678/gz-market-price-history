@@ -1,1 +1,1 @@
-jsonp_data_by_month_2026_09_鲜牛肉_2026_09_js({"wholeCity": [{"date": "2026-09-01", "price": "107.75"}], "urbanCity": [{"date": "2026-09-01", "price": "105.78"}], "suburbCity": [{"date": "2026-09-01", "price": "107.25"}]})
+jsonp_data_by_month_2026_09_鲜牛肉_2026_09_js({"wholeCity": [{"date": "2026-09-01", "price": "107.75"}, {"date": "2026-09-02", "price": "107.75"}], "urbanCity": [{"date": "2026-09-01", "price": "105.78"}, {"date": "2026-09-02", "price": "105.78"}], "suburbCity": [{"date": "2026-09-01", "price": "107.25"}, {"date": "2026-09-02", "price": "107.25"}]})
