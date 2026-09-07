@@ -76,8 +76,8 @@
     "桃子": {"aliasList": [], "pictureList": ["taozi_1.jpg", "taozi_2.jpg", "taozi_3.jpg"], "multiPrice": "", "unit": "元/公斤"},
     "红提": {"aliasList": [], "pictureList": ["hongti_1.jpg", "hongti_2.jpg", "hongti_3.jpg"], "multiPrice": "", "unit": "元/公斤"},
     "橙子": {"aliasList": [], "pictureList": ["chengzi_1.jpg", "chengzi_2.jpg", "chengzi_3.jpg"], "multiPrice": "", "unit": "元/公斤"},
-    "伊利纯牛奶": {"aliasList": [], "pictureList": ["yilichunniunai_1.jpg", "yilichunniunai_2.jpg", "yilichunniunai_3.jpg"], "multiPrice": "", "unit": "元/盒"},
-    "蒙牛纯牛奶": {"aliasList": [], "pictureList": ["mengniuchunniunai_1.jpg", "mengniuchunniunai_2.jpg", "mengniuchunniunai_3.jpg"], "multiPrice": "", "unit": "元/盒"},
+    "伊利纯牛奶": {"aliasList": [], "pictureList": ["yilichunniunai_1.jpg", "yilichunniunai_2.jpg"], "multiPrice": "", "unit": "元/盒"},
+    "蒙牛纯牛奶": {"aliasList": [], "pictureList": ["mengniuchunniunai_1.jpg", "mengniuchunniunai_2.jpg"], "multiPrice": "", "unit": "元/盒"},
     "黄豆": {"aliasList": [], "pictureList": ["huangdou_1.jpg", "huangdou_2.jpg", "huangdou_3.jpg"], "multiPrice": "", "unit": "元/公斤"},
     "红豆": {"aliasList": ["红小豆"], "pictureList": ["hongdou_1.jpg", "hongdou_2.jpg", "hongdou_3.jpg"], "multiPrice": "", "unit": "元/公斤"},
     "绿豆": {"aliasList": [], "pictureList": ["lvdou_1.jpg", "lvdou_2.jpg", "lvdou_3.jpg"], "multiPrice": "", "unit": "元/公斤"},
@@ -89,7 +89,7 @@
     "丝苗米": {"aliasList": [], "pictureList": ["simiaomi_1.jpg", "simiaomi_2.jpg", "simiaomi_3.jpg"], "multiPrice": "", "unit": "元/公斤"},
     "特一粉": {"aliasList": ["一级精面粉"], "pictureList": ["teyifen_1.jpg", "teyifen_2.jpg", "teyifen_3.jpg"], "multiPrice": "", "unit": "元/公斤"},
     "标面粉": {"aliasList": ["标准粉"], "pictureList": ["biaomianfen_1.jpg", "biaomianfen_2.jpg", "biaomianfen_3.jpg"], "multiPrice": "", "unit": "元/公斤"},
-    "5L金龙鱼食用调和油": {"aliasList": [], "pictureList": ["5ljinlongyushiyongtiaheyou_1.jpg", "5ljinlongyushiyongtiaheyou_2.jpg", "5ljinlongyushiyongtiaheyou_3.jpg"], "multiPrice": "", "unit": "元/桶"},
-    "5L鲁花压榨一级花生油": {"aliasList": [], "pictureList": ["5lluhuayayayijihuashengyou_1.jpg", "5lluhuayayayijihuashengyou_2.jpg", "5lluhuayayayijihuashengyou_3.jpg"], "multiPrice": "", "unit": "元/桶"},
-    "5L胡姬花古法花生油": {"aliasList": [], "pictureList": ["5lhujihuagufahuashengyou_1.jpg", "5lhujihuagufahuashengyou_2.jpg", "5lhujihuagufahuashengyou_3.jpg"], "multiPrice": "", "unit": "元/桶"}
+    "5L金龙鱼食用调和油": {"aliasList": [], "pictureList": ["jinlongyushiyongtiaheyou_1.jpg", "jinlongyushiyongtiaheyou_2.jpg"], "multiPrice": "", "unit": "元/桶"},
+    "5L鲁花压榨一级花生油": {"aliasList": [], "pictureList": ["luhuayayayijihuashengyou_1.jpg", "luhuayayayijihuashengyou_2.jpg"], "multiPrice": "", "unit": "元/桶"},
+    "5L胡姬花古法花生油": {"aliasList": [], "pictureList": ["hujihuagufahuashengyou_1.jpg", "hujihuagufahuashengyou_2.jpg"], "multiPrice": "", "unit": "元/桶"}
 }
