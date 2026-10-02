@@ -1,1 +1,1 @@
-jsonp_data_by_month_2026_10_韭菜_2026_10_js({"wholeCity": [{"date": "2026-10-01", "price": "10.63"}], "urbanCity": [{"date": "2026-10-01", "price": "10.78"}], "suburbCity": [{"date": "2026-10-01", "price": "10.50"}]})
+jsonp_data_by_month_2026_10_韭菜_2026_10_js({"wholeCity": [{"date": "2026-10-01", "price": "10.63"}, {"date": "2026-10-02", "price": "10.69"}], "urbanCity": [{"date": "2026-10-01", "price": "10.78"}, {"date": "2026-10-02", "price": "10.89"}], "suburbCity": [{"date": "2026-10-01", "price": "10.50"}, {"date": "2026-10-02", "price": "10.50"}]})

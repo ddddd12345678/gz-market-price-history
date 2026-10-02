@@ -1,1 +1,1 @@
-jsonp_data_by_month_2026_10_矮脚白菜_2026_10_js({"wholeCity": [{"date": "2026-10-01", "price": "10.91"}], "urbanCity": [{"date": "2026-10-01", "price": "10.83"}], "suburbCity": [{"date": "2026-10-01", "price": "11.00"}]})
+jsonp_data_by_month_2026_10_矮脚白菜_2026_10_js({"wholeCity": [{"date": "2026-10-01", "price": "10.91"}, {"date": "2026-10-02", "price": "10.91"}], "urbanCity": [{"date": "2026-10-01", "price": "10.83"}, {"date": "2026-10-02", "price": "10.83"}], "suburbCity": [{"date": "2026-10-01", "price": "11.00"}, {"date": "2026-10-02", "price": "11.00"}]})

@@ -1,1 +1,1 @@
-jsonp_data_by_month_2026_10_荷兰豆_2026_10_js({"wholeCity": [{"date": "2026-10-01", "price": "24.44"}], "urbanCity": [{"date": "2026-10-01", "price": "22.44"}], "suburbCity": [{"date": "2026-10-01", "price": "25.00"}]})
+jsonp_data_by_month_2026_10_荷兰豆_2026_10_js({"wholeCity": [{"date": "2026-10-01", "price": "24.44"}, {"date": "2026-10-02", "price": "24.06"}], "urbanCity": [{"date": "2026-10-01", "price": "22.44"}, {"date": "2026-10-02", "price": "22.00"}], "suburbCity": [{"date": "2026-10-01", "price": "25.00"}, {"date": "2026-10-02", "price": "24.71"}]})
