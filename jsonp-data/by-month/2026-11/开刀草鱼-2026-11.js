@@ -1,1 +1,1 @@
-jsonp_data_by_month_2026_11_开刀草鱼_2026_11_js({"wholeCity": [{"date": "2026-11-01", "price": "32.63"}], "urbanCity": [{"date": "2026-11-01", "price": "31.33"}], "suburbCity": [{"date": "2026-11-01", "price": "31.25"}]})
+jsonp_data_by_month_2026_11_开刀草鱼_2026_11_js({"wholeCity": [{"date": "2026-11-01", "price": "32.63"}, {"date": "2026-11-02", "price": "32.63"}], "urbanCity": [{"date": "2026-11-01", "price": "31.33"}, {"date": "2026-11-02", "price": "31.33"}], "suburbCity": [{"date": "2026-11-01", "price": "31.25"}, {"date": "2026-11-02", "price": "31.25"}]})

@@ -1,1 +1,1 @@
-jsonp_data_by_month_2026_11_生宰光鸡_2026_11_js({"wholeCity": [{"date": "2026-11-01", "price": "39.25"}], "urbanCity": [{"date": "2026-11-01", "price": "35.00"}], "suburbCity": [{"date": "2026-11-01", "price": "38.25"}]})
+jsonp_data_by_month_2026_11_生宰光鸡_2026_11_js({"wholeCity": [{"date": "2026-11-01", "price": "39.25"}, {"date": "2026-11-02", "price": "39.25"}], "urbanCity": [{"date": "2026-11-01", "price": "35.00"}, {"date": "2026-11-02", "price": "35.00"}], "suburbCity": [{"date": "2026-11-01", "price": "38.25"}, {"date": "2026-11-02", "price": "38.25"}]})
